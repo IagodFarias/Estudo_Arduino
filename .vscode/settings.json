@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "código morse(versão 2))": "cpp"
+        "código morse(versão 2))": "cpp",
+        "tradutor de codigo morse": "cpp",
+        "semáfaro": "cpp"
     }
 }
